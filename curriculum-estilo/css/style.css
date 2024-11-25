@@ -31,7 +31,7 @@ h2 a {
     color: #87CEFA;
 }
 
-h2 a:hover {
+h2:hover a {
     color: #00008B;
 }
 
