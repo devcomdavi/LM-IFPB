@@ -143,6 +143,8 @@ footer section.social ul {
   padding: 0;
   list-style-type: none;
   display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 footer section.copyright {
